@@ -1,0 +1,12 @@
+discord.py
+aiosqlite
+aiohttp
+python-dotenv
+bip_utils
+solana
+solders
+bitcoinlib
+Pillow
+websockets
+qrcode
+numpy
